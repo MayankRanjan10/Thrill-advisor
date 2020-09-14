@@ -1,0 +1,120 @@
+#container{
+	height: 2175px;
+	width: 99%;
+	position: absolute;
+}
+#row1{
+	left: 10px;
+	height: 500px;
+	width: 99%;
+	border:solid 2px black;
+	position: relative;
+}
+#row2{
+	left: 10px;
+	height: 500px;
+	width: 99%;
+	border:solid 2px black;
+	position: relative;
+}
+#row3{
+	left: 10px;
+	height: 500px;
+	width: 99%;
+	border:solid 2px black;
+	position: relative;
+}
+#row4{
+	left: 10px;
+	height: 500px;
+	width: 99%;
+	border:solid 2px black;
+	position: relative;
+}
+#row5{
+	left: 10px;
+	height: 500px;
+	width: 99%;
+	border:solid 2px black;
+	position: relative;
+}
+#container p{
+	position: absolute;
+	top: 35%;
+	left: 22%;
+	font-size: 1.5vw;
+	
+}
+#container button{
+	background: red;
+	border-radius: 15px;
+	width:150px ;
+	height:50px ;
+	position:absolute;
+	font-size: 1.5vw;
+	box-shadow: 5px 5px grey;
+	transition: all .3s ease-in-out;
+}
+#container button:hover{
+	transform: scale(1.1);
+}
+#container font{
+	position: relative;
+	color:white;
+}
+#container img{
+	border:solid 2px black;
+	transition: all .5s ease-in-out;
+}
+
+
+#Trek{
+opacity: 0.5;
+position: relative;
+height: 450px;
+width: 22%;
+float: left;
+padding: 10px;
+margin:10px; 
+}
+#TrekImg:hover {
+	transform: scale(1.05);
+}
+
+#Paraglid{
+opacity: 0.5;
+position: relative;
+height: 450px;
+width: 22%;
+float: left;
+padding: 10px;
+margin:10px;
+}
+
+#ParaglidImg:hover {
+	transform: scale(1.05);
+}
+#Rock{	
+opacity: 0.5;
+position: relative;
+height: 450px;
+width: 22%;
+float: left;
+padding: 10px;
+margin:10px;
+}
+#RockImg:hover {
+	transform: scale(1.05);
+}
+#Cave{
+opacity: 0.5;
+position: relative;
+height: 450px;
+width: 22%;
+float: left;
+padding: 10px;
+margin:10px;
+}
+#CaveImg:hover {
+	transform: scale(1.05);
+}
