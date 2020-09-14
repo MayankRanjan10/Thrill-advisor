@@ -1,2 +1,2 @@
 # Thrill-advisor
-Startup Website
+Webpage
